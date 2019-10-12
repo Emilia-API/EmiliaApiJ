@@ -2,7 +2,6 @@
 .glitch-assets
 .git
 .nano
-.bash_history
-shrinkwrap.yaml
-.idea
+.bash_history.idea
 EmiliaApiJ.iml
+shrinkwrap.yaml
