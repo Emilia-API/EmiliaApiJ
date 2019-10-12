@@ -12,10 +12,26 @@
         <artifactId>unirest-java</artifactId>
         <version>3.1.00</version> 
     </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>16.0.1</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
     
     <build>
       <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-javadoc-plugin</artifactId>
+          <version>3.1.1</version>
+          <configuration>
+            <show>public</show>
+            <nohelp>true</nohelp>
+            <outputDirectory>${project.build.outputDirectory}/docs</outputDirectory>
+          </configuration>
+        </plugin>
         <plugin>
           <artifactId>maven-assembly-plugin</artifactId>
           <configuration>
@@ -41,6 +57,14 @@
         </plugin>
       </plugins>
     </build>
+  
+    <distributionManagement>
+      <repository>
+        <id>github</id>
+        <name>GitHub SharifPoetra Apache Maven Packages</name>
+        <url>https://maven.pkg.github.com/SharifPoetra/EmiliaApiJ</url>
+      </repository>
+  </distributionManagement>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
