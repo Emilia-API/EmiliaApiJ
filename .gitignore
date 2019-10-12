@@ -1,3 +1,5 @@
 .m2/
 .glitch-assets
 shrinkwrap.yaml
+.idea
+EmiliaApiJ.iml
