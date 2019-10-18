@@ -3,3 +3,7 @@
 shrinkwrap.yaml
 .idea
 EmiliaApiJ.iml
+.classpath
+.project
+.m2
+.settings
