@@ -5,6 +5,8 @@ shrinkwrap.yaml
 EmiliaApiJ.iml
 .classpath
 .project
-.m2
 .settings
 target
+.git
+.nano
+.bash_history.idea
