@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>xyz.fatir.emilia</groupId>
     <artifactId>emilia-api</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>Emilia Api Java Wrapper</name>
