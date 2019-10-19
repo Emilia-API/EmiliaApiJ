@@ -10,6 +10,6 @@ Official java wrapper for https://emilia-api.glitch.me
 <dependency>
   <groupId>xyz.fatir.emilia</groupId>
   <artifactId>emilia-api</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.4-SNAPSHOT</version>
 </dependency>
 ```
