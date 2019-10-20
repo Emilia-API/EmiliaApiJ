@@ -8,8 +8,8 @@ Official java wrapper for https://emilia-api.glitch.me
 
 ```xml
 <dependency>
-  <groupId>xyz.fatir.emilia</groupId>
-  <artifactId>emilia-api</artifactId>
-  <version>1.0.4-SNAPSHOT</version>
+  <groupId>com.sharif</groupId>
+  <artifactId>EmiliaApiJ</artifactId>
+  <version>1.0-snapshot</version>
 </dependency>
 ```
