@@ -1,4 +1,4 @@
-package com.sharif.emiliaapi.utils;
+package xyz.shrf.emilia.utils;
 
 public class Checks {
 
