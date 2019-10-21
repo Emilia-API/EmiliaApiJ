@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>xyz.fatir.emilia</groupId>
+    <groupId>xyz.shrf.emilia</groupId>
     <artifactId>emilia-api</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.5-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Emilia Api Java Wrapper</name>
-    <description>An api wrapper for https://emilia-api.glitch.me/</description>
-    <url>https://github.com/KurokuTetsuya/EmiliaApiJ</url>
+    <description>An api wrapper for https://emilia.shrf.xyz/</description>
+    <url>https://github.com/Emilia-API/EmiliaApiJ</url>
     <developers>
         <developer>
             <name>Fatir</name>
@@ -19,9 +19,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/KurokuTetsuya/EmiliaApiJ.git</connection>
-        <developerConnection>scm:git:ssh://github.com/KurokuTetsuya/EmiliaApiJ.git</developerConnection>
-        <url>http://github.com/KurokuTetsuya/EmiliaApiJ/tree/master</url>
+        <connection>scm:git:git://github.com/Emilia-API/EmiliaApiJ.git</connection>
+        <developerConnection>scm:git:ssh://github.com/Emilia-API/EmiliaApiJ.git</developerConnection>
+        <url>http://github.com/Emilia-API/EmiliaApiJ/tree/master</url>
     </scm>
 
     <dependencies>
