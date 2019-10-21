@@ -1,10 +1,10 @@
-package com.sharif.emiliaapi;
+package xyz.shrf.emilia;
 
-import com.sharif.emiliaapi.api.Effects;
-import com.sharif.emiliaapi.api.GIF;
-import com.sharif.emiliaapi.api.Generators;
-import com.sharif.emiliaapi.api.Overlays;
-import com.sharif.emiliaapi.utils.Checks;
+import xyz.shrf.emilia.api.Effects;
+import xyz.shrf.emilia.api.GIF;
+import xyz.shrf.emilia.api.Generators;
+import xyz.shrf.emilia.api.Overlays;
+import xyz.shrf.emilia.utils.Checks;
 
 public class EmiliaApi {
   private static String token = null;
