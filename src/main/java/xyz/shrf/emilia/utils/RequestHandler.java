@@ -1,4 +1,4 @@
-package com.sharif.emiliaapi.utils;
+package xyz.shrf.emilia.utils;
 
 import kong.unirest.HttpResponse;
 import kong.unirest.Unirest;
