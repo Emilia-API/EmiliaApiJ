@@ -1,7 +1,13 @@
 .m2/
 .glitch-assets
+shrinkwrap.yaml
+.idea
+EmiliaApiJ.iml
+.classpath
+.project
+.settings
+target
 .git
 .nano
 .bash_history.idea
-EmiliaApiJ.iml
-shrinkwrap.yaml
+bin
