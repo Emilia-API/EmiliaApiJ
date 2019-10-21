@@ -1,6 +1,6 @@
-package com.sharif.emiliaapi.api;
+package xyz.shrf.emilia.api;
 
-import com.sharif.emiliaapi.utils.RequestHandler;
+import xyz.shrf.emilia.utils.RequestHandler;
 
 public class Overlays {
     private static String BASE_URL = "https://emilia-api.glitch.me/api/";
